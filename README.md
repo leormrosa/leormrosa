@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @leormrosa
-- 👀 I’m interested in ways progress as a programmer
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on web and game projects
+- 👀 I’m interested learning programming skills and technology systems
+- 🌱 I’m currently learning from CS50
+- 💾 I have coded in C, C++, Python, SQL, HTML, CSS and Java
+- 💞️ I’m looking to collaborate on voice, web and game projects
 - 📫  You can reach me at brasilcitron@gmail.com
 
 <!---
